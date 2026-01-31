@@ -8,8 +8,8 @@ This repository contains the automated testing suite for the **SwiftTranslator**
 ## 👤 Student Information
 | Field | Details |
 | :--- | :--- |
-| **Name** | Vithana O.V.D.P.D |
-| **Student ID** | IT23630116 |
+| **Name** | Ekanayaka.A.G |
+| **Student ID** | IT23636910 |
 | **Specialization** | Information Technology |
 | **Option Selected** | Option 1 (Singlish to Sinhala) |
 
